@@ -309,6 +309,14 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#project_404 {
+  margin: 0;
+  color: #fff;
+  font-size: 100px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
 #project_tagline {
   color: #fff;
   font-size: 24px;
